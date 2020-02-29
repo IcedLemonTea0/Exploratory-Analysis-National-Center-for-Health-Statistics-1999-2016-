@@ -1,12 +1,13 @@
 # Basic Analysis: Leading Causes of Death in United States (1999-2016)
 ###### *Author: Amir Gharti Magar*
+NOTE: Since Github is not rendering choropleth maps, please refer to the following link for interactive plots: https://nbviewer.jupyter.org/github/IcedLemonTea0/Exploratory-Analysis-National-Center-for-Health-Statistics-1999-2016-/blob/master/NCHS%20-%20Analysis.ipynb 
 
 ## Brief Intro about the Author
 I am a recent college graduate with a degree in B.S Applied Mathematics currently pursuing Data Analytics as a career path. I am working towards the realm of Data Science with the help of my background and, my desire to learn high level statistics and strengthening my technical skills.
 
 Still new to the industry, I have self-taught Python and have intermediate understanding of data visualization tools such as: Pandas, Numpy, Matplotlib, and Seaborn. Currently I am learning machine learning algorithms to make predictions on certain amount of datasets - create exploratory analysis and building predictive model to solve problems. 
 
-As my first project, I specifically chose this project to primarily test my technical (visualization) ability but more importantly to harness critical thinking in a data analytical way and discover real life problems to convey deeper meaning behind datas.  
+For my first project, I specifically chose this project to primarily test my technical (visualization) ability but more importantly to harness critical thinking in a data analytical way and discover real life problems to convey deeper meaning behind datas.  
 
 I appreciate your time to look over my work and gladly welcome any constructive criticism. 
 	
@@ -14,12 +15,13 @@ I appreciate your time to look over my work and gladly welcome any constructive 
 	* Retrieve datas from NCHS website, create dataframe
 	* Use Pandas (Python Library) to organize,label, and clean irrelevant datas
 	* Formulate questions and explain the methodology to solve the problems  
-	* Build 2 simple data visualization to convey the relationships of your work
+	* Build 3 simple data visualization 
 	* Summarize briefly but more importantly reach meaningful conclusions to your findings
+    
 <br> 
 
 ## **Methodology**:
-This report will be analyzed using Python. It includes multiple data analytics visualization libraries.
+This report will be analyzed using Python - Juypter. It includes multiple data analytics visualization libraries.
 
 <br> 
 I will primarily be using:
@@ -30,7 +32,6 @@ I will primarily be using:
 	* Seaborn --> Better version of Matplotlib
  
 In this analysis I will present the findings using **data visualitions** followed by **thorough explanation** after each section. 
-Furthermore, I will briefly explain the codes - as need be - to simplify and avoid any confusions for the readers.  
 
 ## **Datasets**
 The main datasets for this analysis report are from **NCHS's** (National Center for Health Statistics).
